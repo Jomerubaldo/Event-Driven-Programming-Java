@@ -26,3 +26,5 @@ public class Exercise1 {
         scanner.close();
     }
 }
+
+/* Get lang ulit inimput ni user tapos using StringBuilder yung inimput ni user is nireverse kona to string tapos declared lang ako ng boolean na may value na false, ngayon using conditional statement if yung inimput ni user is same sa erereverse ko kahit na capital letter or small tapos, kapag true yung boolean value ko magiging true at e priprint koyong result based sa gusto ko otherwise naman false at meron lang din naka print na based sa false na condition  */ 
