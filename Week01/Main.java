@@ -28,5 +28,9 @@ public class Main {
     }
 }
 
-
-/* I solved this problem using arithmetic operators. I used the "Scanner" class, which I imported so I could enter numbers through the terminal and perform calculations. I then displayed the results using "System.out.println()" with string concatenation. I also applied data types and variables in the program. */
+/*
+ * I solved this problem using arithmetic operators. I used the "Scanner" class,
+ * which I imported so I could enter numbers through the terminal and perform
+ * calculations. I then displayed the results using "System.out.println()" with
+ * string concatenation. I also applied data types and variables in the program.
+ */

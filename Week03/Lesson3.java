@@ -8,12 +8,10 @@ public class Lesson3 {
 
         System.out.println(greatings); // output: Hello World!
 
-
-        //String Length
+        // String Length
         String text = "Count how many words";
 
         System.out.println(text.length()); // output: 20 including whitespace
-
 
         // More String Methods
         String word = "Hello";
@@ -21,12 +19,10 @@ public class Lesson3 {
         System.out.println(word.toLowerCase()); // output: hello
         System.out.println(word.toUpperCase()); // output: HELLO
 
-
         // Finding a character in a String
         String alphabet = "a b c d e f g h i j k l m n o p q r s t u v w x y z";
 
         System.out.println(alphabet.indexOf("j")); // output: 18 including whitespace
-
 
         // String concatenation
         String firstName = "Jomer";
@@ -35,8 +31,7 @@ public class Lesson3 {
         System.out.println(firstName + " " + lastName); // output: Jomer Ubaldo
         System.out.println(firstName.concat(lastName)); // output: JomerUbaldo
 
-
-        //Number and String
+        // Number and String
         int w = 30;
         int x = 20;
         String y = "10";
@@ -50,7 +45,6 @@ public class Lesson3 {
         System.out.println(string); // output: 105 (real string)
         System.out.println(stringNumber); // output: 3010 (real string)
 
-
         // String - special characters
         String specialChar = "We are the so-called \"Viking\" From the north.";
         String txt = "The character \\ is called backslash.";
@@ -58,14 +52,12 @@ public class Lesson3 {
         System.out.println(specialChar); // output: We are the so-called "Viking" From the north.
         System.out.println(txt); // output: The character \ is called backslash.
 
-
         // Boolean values
         boolean isBSITFun = true;
         boolean isBSITNotFun = false;
 
         System.out.println(isBSITFun); // output: true
-        System.out.println(isBSITNotFun); // output:  false
-
+        System.out.println(isBSITNotFun); // output: false
 
         // Boolean expression
         int num1 = 18;
