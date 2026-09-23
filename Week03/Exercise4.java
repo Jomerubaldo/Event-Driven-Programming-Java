@@ -26,7 +26,7 @@ public class Exercise4 {
             System.out.print("Guess again the number: ");
             input = scanner.nextInt();
 
-            countInput = countInput + 1;
+            countInput = countInput + 1; // false count lang sa countInput + 1
 
         }
 
