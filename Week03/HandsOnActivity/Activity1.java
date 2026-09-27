@@ -6,7 +6,7 @@ package Week03.HandsOnActivity;
 
 import java.util.Scanner;
 
-public class HandsOnActivity {
+public class Activity1 {
     public static void main(String[] args) {
 
         System.out.println("First 10 Fibonacci numbers: ");
@@ -49,7 +49,7 @@ public class HandsOnActivity {
 
 // Output: 0 1 1 2 3 5 8 13 21 34
 
-// Explain code:
+// Explain code:    
 
 /*
  * inialize lang yung mga variable na a at b tapos papasok na sa loop check kung
