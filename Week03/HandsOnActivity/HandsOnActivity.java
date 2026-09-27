@@ -2,7 +2,7 @@
 numbers and use a switch statement to display a message based on
 user input. */
 
-package Week03;
+package Week03.HandsOnActivity;
 
 import java.util.Scanner;
 
