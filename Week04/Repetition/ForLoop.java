@@ -36,5 +36,10 @@ public class ForLoop {
     }
 }
 
+// Reminders:
 
-// For loop programming classify numbers
+// 1. Does not execute if loop condition is initially false.
+// 2. Update expression changes value of loop control variable, eventually
+// making it false.
+// 3. If loop condition is always true, result is an infinite loop.
+// 4. Infinite loop can be specified by omitting all three control statements.
