@@ -9,7 +9,7 @@ public class WhileLoop {
             System.out.print(i + " ");
             i = i + 5;
         }
-        System.out.println(); // print all pag false na
+        System.out.println(); // print all pag false na ang condition
 
     }
 }
